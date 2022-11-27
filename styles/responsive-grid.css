@@ -1,0 +1,15 @@
+@media (min-width: 800px) {
+  .wrapper h1 {
+    font-size: 4rem;
+  }
+
+  .article-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    column-gap: 5%;
+  }
+
+  article {
+    justify-self: center;
+  }
+}

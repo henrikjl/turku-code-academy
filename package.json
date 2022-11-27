@@ -1,0 +1,30 @@
+{
+  "name": "turku-code-academy",
+  "version": "1.0.0",
+  "description": "Turku Code Academy HTML & CSS example material",
+  "eslintConfig": {
+    "plugins": [
+      "html",
+      "prettier"
+    ]
+  },
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrikjl/turku-code-academy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrikjl/turku-code-academy/issues"
+  },
+  "homepage": "https://github.com/henrikjl/turku-code-academy#readme",
+  "devDependencies": {
+    "eslint": "8.28.0",
+    "eslint-plugin-html": "7.1.0",
+    "eslint-plugin-prettier": "4.2.1"
+  }
+}
